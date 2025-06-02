@@ -243,7 +243,7 @@ button img{
     }
 
     #thumbnail-wrapper img{
-        border: 3px solid var(--Orange);
+        /* border: 3px solid var(--Orange); */
         color: var(--Orange);
         filter: opacity(0.5);
         transition: 0.3 ease;
@@ -289,7 +289,7 @@ button img{
      }
      
      #inc-and-dec-1{
-         border: 1px solid red;
+         /* border: 1px solid red; */
          display: flex;
          gap: 20px;
          margin-top: 20px;
